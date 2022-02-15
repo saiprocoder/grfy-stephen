@@ -154,7 +154,7 @@
 }
 
 .back {
-    background: #000000;
+    background: linear-gradient(to right, #FF0000, #FFA500);
 }
 
 .foot {
